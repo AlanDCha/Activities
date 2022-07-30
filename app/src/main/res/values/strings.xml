@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Register</string>
+<!--    String form Activity main-->
+    <string name="pick_date">Pick Date</string>
+    <string name="form_username">Full Name</string>
+    <string name="form_phone">Phone</string>
+    <string name="form_email">Email</string>
+    <string name="form_desc_contact">Description / Contact</string>
+    <string name="button">Next</string>
+
+<!--    Activity save data label-->
+<!--    It can use for java variables-->
+    <string name="a_name">Full name:</string>
+    <string name="a_dateBorn">Birthday:</string>
+    <string name="a_phone">Phone:</string>
+    <string name="a_email">Email:</string>
+    <string name="a_desc">Description:</string>
+
+    <!--    Activity save data value-->
+    <string name="confirm_data">Confirm Data</string>
+    <string name="full_name">Lorena Hernandez Lopez</string>
+    <string name="born_date">12/12/1987</string>
+    <string name="phone">5555553333</string>
+    <string name="email">lorena@gmail.com</string>
+    <string name="description">I met Lorena at the Italian food restaurant</string>
+    <string name="edit_data">Edit Data</string>
+
+    <!--    It can use for java variables-->
+    <string name="j_name">Full name</string>
+    <string name="j_dayOfMonth">Day</string>
+    <string name="j_date">Date</string>
+    <string name="j_month">Month</string>
+    <string name="j_year">Year</string>
+    <string name="j_phone">Phone</string>
+    <string name="j_email">Email</string>
+    <string name="j_desc">Description</string>
+</resources>

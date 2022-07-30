@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="text_width">400dp</dimen>
+    <dimen name="height_title">80dp</dimen>
+<!--    Text-->
+    <dimen name="title">25sp</dimen>
+</resources>
