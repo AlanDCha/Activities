@@ -15,3 +15,6 @@ And the following images are screenshots of my project
 ## The second activity
 
 ![First activity](https://github.com/AlanDCha/Activities/blob/main/imgs/second_activity.png)
+
+
+Thank you for watching my android project
